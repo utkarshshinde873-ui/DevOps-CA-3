@@ -1,1 +1,2 @@
 Project status: Initial version
+Git tracks changes to files.
