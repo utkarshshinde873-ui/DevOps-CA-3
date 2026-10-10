@@ -1,2 +1,1 @@
-Project status: Initial version
-Git tracks changes to files.
+Project status: Feature branch version
